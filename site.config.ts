@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'KINtk Genius',
+  name: 'KINtk',
   domain: 'kin.tk',
   author: 'Kin',
 
